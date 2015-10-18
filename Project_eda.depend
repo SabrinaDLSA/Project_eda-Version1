@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1445052395 source:/home/sabrina/Escritorio/Project_eda/main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<stdio.h>
+	"implementaciones.cpp"
+
+1445147963 /home/sabrina/Escritorio/Project_eda/implementaciones.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1445146164 /home/sabrina/Escritorio/Project_eda/header.h
+
